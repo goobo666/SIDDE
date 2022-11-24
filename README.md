@@ -1,2 +1,2 @@
-# VEA
- please cite as follows: Gu, B.. VEA: A Variational Enhancement Approach to Single Image Dehaze. IEEE Transactions on XXXXX, XX, X–X.
+# SIDDE
+ please cite as follows: Gu, B., Single Image Dehazing via Decomposition and Enhancement. IEEE Transactions on XXXXX, XX, X–X.
